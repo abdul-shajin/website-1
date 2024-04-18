@@ -10,6 +10,11 @@ weight: 90
 {{< /caution >}}
 
 Currently there are no experimental commands under `kubeadm alpha`.
+## {{% heading "Available Commands:" %}}
+* certs       - Commands related to handling kubernetes certificates
+* kubeconfig  - Kubeconfig file utilities
+* kubelet     - Commands related to handling the kubelet
+* selfhosting - Makes a kubeadm cluster self-hosted
 
 ## {{% heading "whatsnext" %}}
 
